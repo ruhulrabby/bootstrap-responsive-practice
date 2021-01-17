@@ -10,3 +10,19 @@ body {
 nav {
   background-color: #fff9f4;
 }
+.text-color {
+  color: #fa804c;
+}
+
+.button {
+  background-color: #3949d7;
+  color: white;
+}
+
+.hero h1 {
+  font-size: 5rem;
+}
+
+.hero p {
+  font-family: "Roboto", sans-serif;
+}
