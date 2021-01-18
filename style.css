@@ -2,12 +2,8 @@ body {
   font-family: "Roboto", sans-serif;
   font-family: "Bebas Neue", cursive;
 }
-.logo img {
-  width: 290px;
-  height: 39px;
-}
 
-nav {
+nav .hero {
   background-color: #fff9f4;
 }
 .text-color {
